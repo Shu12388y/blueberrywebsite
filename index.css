@@ -202,6 +202,7 @@ nav:hover{
     }
     .cotainer1 {
         flex-wrap: wrap;
+        flex-direction:column-reverse;
     }
     .container3{
         flex-direction: column;
@@ -217,9 +218,6 @@ nav:hover{
     hr{
         color: black;
         margin: 7%;
-    }
-    .container6{
-        flex-wrap: wrap;
     }
 
 #flex1{
