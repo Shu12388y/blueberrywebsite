@@ -218,6 +218,9 @@ nav:hover{
         color: black;
         margin: 7%;
     }
+    .container6{
+        flex-wrap: wrap;
+    }
 
 #flex1{
     flex-direction: column;
